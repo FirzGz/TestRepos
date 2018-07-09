@@ -2,3 +2,6 @@ This is created in local repository for the first time.
 The goal was to commit or upload the file to the GitHub repository.
 
 The following line has been added later to see how the comit works on modified file.
+***********************************************************
+This is the 3rd time changes 
+***************************************
